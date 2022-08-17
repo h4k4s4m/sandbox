@@ -22,4 +22,4 @@ function sort(unsortedArray){
 let unsorted = [1,7,4,3,5,6,4,2];
 let sorted = sort(unsorted);
 
-console.log(sorted); 
+console.log(sorted);
