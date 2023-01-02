@@ -1,0 +1,1 @@
+print("This module has been loaded succesfully")
