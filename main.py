@@ -1,4 +1,9 @@
 def fizzbuzz(number: int) -> None:
+    """Basic FizzBuzz
+
+    Args:
+        number (int): number coming from loop or single number
+    """
     if number % 15 == 0:
         print("FIZZBUZZ")
     elif number % 5 == 0:
